@@ -1,0 +1,343 @@
+{
+  "seller": [
+    {
+      "name": "dimal",
+      "email": "dimal@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "amal",
+      "email": "amal@gmail.com",
+      "password": "12455345",
+      "id": 2
+    },
+    {
+      "name": "amal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "aqww",
+      "password": "123456",
+      "email": "dimalthomas@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "aleena",
+      "password": "dseerer",
+      "email": "al@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "anil",
+      "password": "12345556",
+      "email": "anil@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "name": "sss",
+      "password": "",
+      "email": "",
+      "id": 16
+    },
+    {
+      "name": "wwwwol",
+      "password": "1111",
+      "email": "dimalthomas@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 19
+    },
+    {
+      "name": "amal",
+      "email": "amal@gmail.com",
+      "password": "12455345",
+      "id": 20
+    },
+    {
+      "name": "amal",
+      "email": "amal@gmail.com",
+      "password": "12455345",
+      "id": 21
+    },
+    {
+      "name": "amal",
+      "email": "amal@gmail.com",
+      "password": "12455345",
+      "id": 22
+    },
+    {
+      "name": "amal",
+      "email": "amal@gmail.com",
+      "password": "12455345",
+      "id": 23
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 24
+    },
+    {
+      "name": "dimal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 26
+    },
+    {
+      "name": "dimal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "amal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "anil",
+      "password": "0000",
+      "email": "anil@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 30
+    },
+    {
+      "name": "dimal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "dimal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "dimal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "dimal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "dimal",
+      "password": "12345",
+      "email": "dimalthomas@gmail.com",
+      "id": 35
+    }
+  ],
+  "products": [
+    {
+      "name": "hp laptop",
+      "price": "45000",
+      "category": "laptop",
+      "color": "white",
+      "discription": "average",
+      "image": "https://img3.gadgetsnow.com/gd/images/products/additional/large/G338936_View_1/computer-laptop/laptops/hp-15s-eq2143au-amd-ryzen-3-3300u-15-6-inches-notebook-laptop-8gb-512gb-ssd-windows-11-natural-silver-1-69-kg-.jpg",
+      "id": 11
+    },
+    {
+      "name": "pixel 4a",
+      "price": "15000",
+      "category": "mobile",
+      "color": "black",
+      "discription": "good",
+      "image": "https://m.media-amazon.com/images/I/61NrGFKn2LS._SX679_.jpg",
+      "id": 12
+    },
+    {
+      "name": "Lenovo laptop",
+      "price": "45000",
+      "category": "laptop",
+      "color": "black",
+      "discription": "super",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G221395_View_1/computer-laptop/laptops/lenovo-ideapad-slim-3i-81wq003lin-intel-celeron-n4020-integrated-4gb-256gb-ssd-windows-10-home-basic.jpg",
+      "id": 13
+    },
+    {
+      "name": "apple smart watch",
+      "price": "150000",
+      "category": "smart watch",
+      "color": "orange",
+      "discription": "good",
+      "image": "https://m.media-amazon.com/images/I/51XGrwhczrL._SX342_SY445_.jpg",
+      "id": 14
+    },
+    {
+      "name": "JBL speaker",
+      "price": "20000",
+      "category": "speaker",
+      "color": "black",
+      "discription": "good",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdMc623ITRCmgL2RiZVEq9VIZgNUy3dMj5Uw&usqp=CAU",
+      "id": 15
+    },
+    {
+      "name": "Nike Shoe",
+      "price": "1500",
+      "category": "shoe",
+      "color": "black",
+      "discription": "nice",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20211224/1tuJ/61c4c229aeb26901101a2a6a/-473Wx593H-469034008-black-MODEL.jpg",
+      "id": 16
+    },
+    {
+      "name": "redmi s20",
+      "price": "20000",
+      "category": "mobile",
+      "color": "blue",
+      "discription": "good",
+      "image": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SY679_.jpg",
+      "id": 17
+    }
+  ],
+  "users": [
+    {
+      "name": "dimal",
+      "email": "dimalthomas@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "44455",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "dimal",
+      "email": "dimalthomas@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "dimal",
+      "email": "dimalthomas@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "dimal",
+      "email": "dimalthomas@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "amal",
+      "email": "anil@gmail.com",
+      "password": "0000",
+      "id": 7
+    },
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "ssdd",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "redmi s20",
+      "price": "20000",
+      "category": "mobile",
+      "color": "blue",
+      "discription": "good",
+      "image": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SY679_.jpg",
+      "quantity": 1,
+      "productId": 17,
+      "userId": 8,
+      "id": 10
+    }
+  ]
+}
